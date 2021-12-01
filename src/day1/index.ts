@@ -1,6 +1,7 @@
 import fs from 'fs';
 
-const depths: number[] = JSON.parse(fs.readFileSync('./input.json', 'utf8')).depths;
+const input = JSON.parse(fs.readFileSync('./input.json', 'utf8'));
+const depths: number[] = input.depths;
 
 let depthIncreases = 0;
 let groupDepthIncreases = 0;
@@ -20,5 +21,5 @@ depths.forEach((depth, index) => {
   }
 });
 
-console.log('🚀 ~ file: index.ts ~ line 23 ~ depthIncreases', depthIncreases);
-console.log('🚀 ~ file: index.ts ~ line 24 ~ groupDepthIncreases', groupDepthIncreases);
+console.log('🚀 ~ file: index.ts ~ line 24 ~ depthIncreases', depthIncreases);
+console.log('🚀 ~ file: index.ts ~ line 25 ~ groupDepthIncreases', groupDepthIncreases);
