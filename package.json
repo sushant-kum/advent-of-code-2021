@@ -5,9 +5,7 @@
   "main": "index.js",
   "scripts": {
     "prepare": "husky install",
-    "start": "npm run build && node build/index.js",
     "start:dev": "nodemon",
-    "build": "rimraf ./build && tsc",
     "lint": "eslint . --ext .ts",
     "format": "prettier *.{css,html,js,json,md,scss,ts}",
     "format:check": "prettier --check ./**/*.{css,html,js,json,md,scss,ts}",
@@ -45,7 +43,6 @@
     "prettier": "^2.5.0",
     "prettier-eslint": "^13.0.0",
     "pretty-quick": "^3.1.2",
-    "rimraf": "^3.0.2",
     "standard-version": "^9.3.2",
     "ts-node": "^10.4.0"
   },
