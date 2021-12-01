@@ -1,0 +1,57 @@
+{
+  "name": "advent-of-code-2021",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "husky install",
+    "start": "npm run build && node build/index.js",
+    "start:dev": "nodemon",
+    "build": "rimraf ./build && tsc",
+    "lint": "eslint . --ext .ts",
+    "format": "prettier *.{css,html,js,json,md,scss,ts}",
+    "format:check": "prettier --check ./**/*.{css,html,js,json,md,scss,ts}",
+    "format:fix": "prettier --write ./**/*.{css,html,js,json,md,scss,ts}",
+    "tool:commit": "cz",
+    "tool:release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushant-kum/advent-of-code-2021.git"
+  },
+  "author": "Sushant Kumar <sushant.kum96@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sushant-kum/advent-of-code-2021/issues"
+  },
+  "homepage": "https://github.com/sushant-kum/advent-of-code-2021#readme",
+  "dependencies": {
+    "typescript": "^4.5.2"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^15.0.0",
+    "@commitlint/config-conventional": "^15.0.0",
+    "@types/node": "^16.11.11",
+    "@typescript-eslint/eslint-plugin": "^5.5.0",
+    "@typescript-eslint/parser": "^5.5.0",
+    "concurrently": "^6.4.0",
+    "cz-conventional-changelog": "^3.3.0",
+    "eslint": "^8.3.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "husky": "^7.0.4",
+    "lint-staged": "^12.1.2",
+    "nodemon": "^2.0.15",
+    "prettier": "^2.5.0",
+    "prettier-eslint": "^13.0.0",
+    "pretty-quick": "^3.1.2",
+    "rimraf": "^3.0.2",
+    "standard-version": "^9.3.2",
+    "ts-node": "^10.4.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "editor.tabSize": 2,
+  "editor.formatOnPaste": false,
+  "editor.formatOnSave": true,
+  "editor.renderWhitespace": "all",
+  "files.trimTrailingWhitespace": true,
+  "files.associations": {
+    ".versionrc": "json"
+  }
+}
