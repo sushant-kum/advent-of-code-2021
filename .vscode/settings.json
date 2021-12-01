@@ -6,5 +6,6 @@
   "files.trimTrailingWhitespace": true,
   "files.associations": {
     ".versionrc": "json"
-  }
+  },
+  "files.eol": "\n"
 }
