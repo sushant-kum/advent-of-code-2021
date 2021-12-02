@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.1](https://github.com/sushant-kum/advent-of-code-2021/compare/2.0.0...2.0.1) (2021-12-02)
+
+### Bug Fixes
+
+- **day 2:** fixed read of input.json ([e222d4c](https://github.com/sushant-kum/advent-of-code-2021/commit/e222d4cec0d560ca21daaded76e19e9f51bfd300))
+
 ## [2.0.0](https://github.com/sushant-kum/advent-of-code-2021/compare/1.0.3...2.0.0) (2021-12-02)
 
 ### Features
