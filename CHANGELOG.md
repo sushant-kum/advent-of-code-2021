@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/sushant-kum/advent-of-code-2021/compare/1.0.3...1.1.0) (2021-12-02)
+
+### Features
+
+- **day 2:** added solution for day 2 challenge ([1352467](https://github.com/sushant-kum/advent-of-code-2021/commit/13524675b558e79a78f305398546ed881b6849da))
+
 ### [1.0.3](https://github.com/sushant-kum/advent-of-code-2021/compare/1.0.2...1.0.3) (2021-12-02)
 
 ### Bug Fixes
