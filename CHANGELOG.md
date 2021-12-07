@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [7.0.0](https://github.com/sushant-kum/advent-of-code-2021/compare/6.0.1...7.0.0) (2021-12-07)
+
+### Features
+
+- **day7:** added solution for day 7 ([37cd969](https://github.com/sushant-kum/advent-of-code-2021/commit/37cd969df338300ce77a7fe8518b5ad8195d0c6e))
+
 ### [6.0.1](https://github.com/sushant-kum/advent-of-code-2021/compare/6.0.0...6.0.1) (2021-12-07)
 
 ### Bug Fixes
