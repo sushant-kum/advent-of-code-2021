@@ -43,4 +43,4 @@ let numOfFishes = 0;
 daysToReproduceToNumFishesMappings.forEach((daysToReproduceToNumFishesMapping: number) => {
   numOfFishes += daysToReproduceToNumFishesMapping;
 });
-console.log('🚀 ~ file: index.ts ~ line 51 ~ numOfFishes', numOfFishes);
+console.log('🚀 ~ file: index.ts ~ line 46 ~ numOfFishes', numOfFishes);
