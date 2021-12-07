@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.0](https://github.com/sushant-kum/advent-of-code-2021/compare/2.0.1...2.1.0) (2021-12-07)
+
+### Features
+
+- **day1, day2:** added sample-input data files ([847c5de](https://github.com/sushant-kum/advent-of-code-2021/commit/847c5dec843c652428ba2c3842a2eb23fd3d5d87))
+
 ### [2.0.1](https://github.com/sushant-kum/advent-of-code-2021/compare/2.0.0...2.0.1) (2021-12-02)
 
 ### Bug Fixes
