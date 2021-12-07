@@ -1,6 +1,6 @@
 import fs from 'fs';
 
-const input = JSON.parse(fs.readFileSync('./src/day1/input.json', 'utf8'));
+const input = JSON.parse(fs.readFileSync('./src/day1/data/input.json', 'utf8'));
 const depths: number[] = input.depths;
 
 let groupDepthIncreases = 0;
