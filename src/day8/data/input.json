@@ -1,0 +1,804 @@
+{
+  "displays": [
+    {
+      "patterns": ["bgcfda", "gecbda", "abdgf", "aedfbg", "eda", "efcbd", "ae", "agfe", "bdefagc", "fbeda"],
+      "outputs": ["ae", "egdafb", "ea", "fcdeb"]
+    },
+    {
+      "patterns": ["gfadb", "fbagcd", "cagf", "agecdb", "adg", "fdbcg", "bdcfaeg", "bcgfde", "ga", "efbda"],
+      "outputs": ["cbfdge", "dfcebga", "aedcgb", "dgbfa"]
+    },
+    {
+      "patterns": ["bgdeca", "agdbe", "gfb", "fdbgce", "bf", "eafb", "dfgab", "efbgdca", "gebafd", "dgcaf"],
+      "outputs": ["gfbdea", "gfb", "bacedg", "adcgf"]
+    },
+    {
+      "patterns": ["fbc", "becgdf", "fcbdg", "adcgf", "edafgb", "bgec", "dcgfbea", "gbfed", "bc", "cbeafd"],
+      "outputs": ["gfacd", "gcbdf", "bgedfa", "cbdefa"]
+    },
+    {
+      "patterns": ["ad", "dcafeb", "adcef", "feagc", "egdbaf", "aed", "cadb", "bgcedf", "cbeafgd", "cdfeb"],
+      "outputs": ["dabc", "gabefd", "ecfdb", "ecgfbd"]
+    },
+    {
+      "patterns": ["badcgf", "gdaf", "gadbc", "ebfcg", "fceabd", "gacdbe", "gedfbac", "dbf", "df", "dfcgb"],
+      "outputs": ["df", "adfg", "cbfgad", "fdb"]
+    },
+    {
+      "patterns": ["cfdb", "dca", "bdgca", "efgbad", "bafcgd", "fgdba", "cgdfea", "cd", "abdfegc", "bagec"],
+      "outputs": ["agcbe", "adc", "dabcgf", "adc"]
+    },
+    {
+      "patterns": ["egdab", "gcefd", "ecbgd", "gdebcaf", "eacb", "cb", "bagcdf", "abgfde", "dcegab", "bdc"],
+      "outputs": ["bc", "gedbc", "dcb", "fgdec"]
+    },
+    {
+      "patterns": ["gefa", "gedabf", "cfdbea", "bdfea", "bdegcfa", "dgbfa", "gfd", "gdcab", "fg", "fecbdg"],
+      "outputs": ["fgd", "gf", "dbfage", "afbdec"]
+    },
+    {
+      "patterns": ["fagdb", "be", "abdfe", "agfebdc", "eab", "aefdcb", "acfed", "bdec", "fceadg", "afegcb"],
+      "outputs": ["be", "aegcfb", "efbcag", "eb"]
+    },
+    {
+      "patterns": ["fdce", "fcadeg", "afegdb", "adceg", "cgafdb", "de", "ebcga", "dae", "cdagf", "abdfgce"],
+      "outputs": ["efcd", "efacgd", "edfc", "afgcd"]
+    },
+    {
+      "patterns": ["gefc", "defca", "aefbd", "ec", "gfdceba", "dcabge", "fgcad", "cae", "fcadeg", "bagfdc"],
+      "outputs": ["fgcad", "bdfea", "ebadgcf", "ce"]
+    },
+    {
+      "patterns": ["cdabe", "dcg", "cgef", "gc", "beadgf", "fegbd", "gcbde", "edgcfb", "gecfabd", "fdgcba"],
+      "outputs": ["dcg", "deacb", "fdegab", "bdafgc"]
+    },
+    {
+      "patterns": ["aefc", "ebcdfa", "eabfgd", "deacb", "ac", "dac", "gdbce", "gfbadce", "fdeba", "gcfbda"],
+      "outputs": ["adc", "afdbe", "aefc", "ecdafb"]
+    },
+    {
+      "patterns": ["eabfdg", "fdgba", "fac", "fc", "ebdac", "bfcg", "fcdabg", "bgdface", "bacdf", "fgedca"],
+      "outputs": ["fdagcb", "cedba", "cf", "fc"]
+    },
+    {
+      "patterns": ["db", "dbg", "debag", "fcgdeb", "gfeba", "dagfec", "ceadg", "bdfecga", "deagcb", "acbd"],
+      "outputs": ["gbdae", "afebg", "cfedgba", "ecdagb"]
+    },
+    {
+      "patterns": ["cabegd", "befcd", "aefdcb", "defbcag", "dgfb", "gd", "edg", "bfgecd", "gfdce", "eagfc"],
+      "outputs": ["dbgacfe", "efcdg", "gd", "bdfagce"]
+    },
+    {
+      "patterns": ["abde", "fbecag", "gcabde", "cefdg", "bgedc", "bgcea", "bgd", "becgdaf", "gdcfba", "bd"],
+      "outputs": ["baegc", "egbdc", "cedgf", "gdfec"]
+    },
+    {
+      "patterns": ["gedc", "eagbd", "bgadcef", "aebcdg", "dfbag", "eacfdb", "cabde", "fgecab", "ge", "aeg"],
+      "outputs": ["gcbeda", "gabdfec", "dgecba", "gea"]
+    },
+    {
+      "patterns": ["afedgc", "deabf", "gbfceda", "fg", "cgdea", "dgf", "bdgfec", "edgaf", "ebacgd", "gafc"],
+      "outputs": ["fgd", "gfac", "cbefgad", "cagde"]
+    },
+    {
+      "patterns": ["gfcbeda", "bfecda", "dgca", "ebgacd", "gbfae", "ecg", "gc", "gaebc", "cfgebd", "dbeca"],
+      "outputs": ["dfcbea", "cegab", "cg", "cge"]
+    },
+    {
+      "patterns": ["adefc", "eabdf", "bcafeg", "bd", "edb", "fcbeadg", "dabegc", "fdbg", "baegf", "fgaebd"],
+      "outputs": ["fcead", "fcdea", "fbgd", "ecdbga"]
+    },
+    {
+      "patterns": ["ac", "bedgc", "acdb", "gacbed", "bfgeadc", "degcfb", "aec", "cafdeg", "eagfb", "cegab"],
+      "outputs": ["agecb", "gdbec", "abgcde", "agbef"]
+    },
+    {
+      "patterns": ["cfgbead", "cfgdeb", "gafb", "baecd", "bg", "cgdba", "bgc", "adcfbg", "agfecd", "dcagf"],
+      "outputs": ["dgcefb", "bgaf", "fdbcgae", "agcdf"]
+    },
+    {
+      "patterns": ["agc", "dabc", "dcbgef", "efadgcb", "ebdgc", "baefg", "ac", "abgce", "ebdcag", "facdeg"],
+      "outputs": ["ecbdgf", "ac", "afdgbec", "decfbg"]
+    },
+    {
+      "patterns": ["fgdcb", "cbdeaf", "eabfcg", "cefdb", "gcbeadf", "cdeg", "gc", "afbdg", "cfg", "ecdgbf"],
+      "outputs": ["cg", "eafbcd", "dgec", "cbfdge"]
+    },
+    {
+      "patterns": ["da", "dbae", "fdaecb", "cdebgf", "afgced", "bedfc", "adf", "cbfeadg", "bdacf", "bfcag"],
+      "outputs": ["dfbec", "egbdfc", "bdfca", "cefbd"]
+    },
+    {
+      "patterns": ["abgfced", "cf", "cfdbe", "geacfd", "bfac", "bdacfe", "gdebc", "bfedga", "dcf", "bdafe"],
+      "outputs": ["bcfa", "dbfce", "cf", "egdbc"]
+    },
+    {
+      "patterns": ["dcagb", "feagbc", "dbef", "edafg", "fagebd", "bf", "fedgac", "fba", "bfagd", "dbcefga"],
+      "outputs": ["fbdga", "dgafe", "cfabge", "fdbe"]
+    },
+    {
+      "patterns": ["gbfce", "bfc", "acgb", "fbgaec", "bc", "acfedbg", "gface", "cgefad", "bfacde", "defgb"],
+      "outputs": ["cbgfe", "bgfeca", "gacb", "degacf"]
+    },
+    {
+      "patterns": ["cfgeda", "bac", "dbafg", "dbcfa", "bdfcage", "ecfb", "acedf", "cb", "ecfadb", "eacbgd"],
+      "outputs": ["gafbd", "faced", "dacfb", "bcef"]
+    },
+    {
+      "patterns": ["fbgec", "eca", "cbag", "cfegba", "ac", "efacb", "bgcedf", "caegdbf", "fecgad", "fdbea"],
+      "outputs": ["ca", "acgb", "ebdfa", "agcb"]
+    },
+    {
+      "patterns": ["acgbf", "cdabegf", "egbfd", "dc", "dacbef", "dacg", "gecabf", "fdc", "dbgfc", "dfcagb"],
+      "outputs": ["dgabecf", "befgd", "acgd", "abgdefc"]
+    },
+    {
+      "patterns": ["dagbfc", "bc", "agcdf", "cgbd", "bfc", "ebfad", "dfcba", "befgac", "gaecdf", "becdgaf"],
+      "outputs": ["cdgb", "dbcg", "abfcdg", "cfb"]
+    },
+    {
+      "patterns": ["bdcga", "ebdgca", "da", "cdeafg", "dac", "acfbg", "daeb", "cdbgef", "egbfcda", "bdegc"],
+      "outputs": ["bcgad", "adgcbe", "fedacgb", "cegdb"]
+    },
+    {
+      "patterns": ["gacfeb", "aefbg", "fbaegd", "cedgfb", "dfcba", "gc", "cgae", "abcdegf", "gacbf", "gbc"],
+      "outputs": ["cfabd", "debfgac", "cega", "egca"]
+    },
+    {
+      "patterns": ["abcfeg", "fdbegc", "ac", "bdafgec", "ebfad", "fcdae", "dcga", "fcged", "gdceaf", "ace"],
+      "outputs": ["gbcfaed", "ebfda", "ac", "gefcab"]
+    },
+    {
+      "patterns": ["gefbc", "gdeacf", "cag", "ac", "acgebf", "ceab", "adebcfg", "bfcag", "cgbfed", "bgfad"],
+      "outputs": ["cga", "cagdef", "gac", "fcgba"]
+    },
+    {
+      "patterns": ["gcbe", "gacfdbe", "dfgaeb", "bfecd", "ecdgfb", "dfcgae", "bef", "fcedg", "bcfad", "be"],
+      "outputs": ["fadcb", "ebgc", "cbfda", "dfcab"]
+    },
+    {
+      "patterns": ["ebcgfd", "dafe", "adcfg", "gfacde", "cfabge", "bcadg", "dfc", "fd", "fbdaceg", "gefac"],
+      "outputs": ["fceadbg", "fcgabe", "fade", "fbeacg"]
+    },
+    {
+      "patterns": ["fbacg", "cef", "cagebf", "gacefd", "ef", "bgced", "cfbeg", "dagcbf", "fbea", "cegfdab"],
+      "outputs": ["eabf", "fce", "cdgeabf", "agefcb"]
+    },
+    {
+      "patterns": ["bca", "gcadbfe", "ca", "edca", "fbgade", "dcageb", "ecbgf", "egacb", "ebadg", "dgcfba"],
+      "outputs": ["cgafbd", "feagdb", "gabecd", "cba"]
+    },
+    {
+      "patterns": ["fcebdg", "cgefb", "fagbce", "edcbg", "bfed", "eacbgfd", "cegda", "db", "bcd", "dfgcba"],
+      "outputs": ["becdg", "cdbafg", "bedgfc", "cgbeafd"]
+    },
+    {
+      "patterns": ["fcadebg", "edbafc", "cgfda", "decba", "egab", "gcadb", "gb", "debgfc", "cgbdae", "gdb"],
+      "outputs": ["bgd", "agbe", "eadcbf", "gdb"]
+    },
+    {
+      "patterns": ["cedfa", "gad", "ebcfda", "aedgc", "defagb", "gdafceb", "gebca", "dcfg", "dg", "edgacf"],
+      "outputs": ["cdfg", "fadec", "gedac", "bcgae"]
+    },
+    {
+      "patterns": ["dafegbc", "dcfbae", "dce", "fcebgd", "egdaf", "ecadf", "dfcbag", "acbe", "ec", "cafbd"],
+      "outputs": ["ced", "dce", "ce", "ec"]
+    },
+    {
+      "patterns": ["fegb", "ef", "bdcefg", "fabdgce", "efd", "fegdac", "cbdaf", "bcdef", "ecbdg", "acbedg"],
+      "outputs": ["debgac", "edf", "ef", "dfacb"]
+    },
+    {
+      "patterns": ["afgedb", "caedbg", "egfba", "baecf", "efgdb", "gbcadef", "fagd", "age", "cfegdb", "ag"],
+      "outputs": ["afbec", "degbafc", "fceab", "eagbdc"]
+    },
+    {
+      "patterns": ["cebd", "dfb", "dbecgaf", "gefcb", "afbegd", "bd", "fdcgb", "gfcebd", "cgdaf", "gfeacb"],
+      "outputs": ["abecfg", "gacbfe", "cgfda", "bfceg"]
+    },
+    {
+      "patterns": ["acdfgb", "ecbga", "ba", "ecgdafb", "deafgc", "aedgc", "aedb", "aecgdb", "bag", "gfecb"],
+      "outputs": ["cgaefd", "gabce", "cdgbae", "ab"]
+    },
+    {
+      "patterns": ["be", "fcgdae", "fcbag", "efdbcg", "ceb", "cfebg", "degb", "cdebfa", "fgdec", "gdcabfe"],
+      "outputs": ["eb", "dfegc", "debg", "bce"]
+    },
+    {
+      "patterns": ["fdecg", "dafgebc", "fgcae", "fgd", "bcfd", "bcged", "edbgfc", "aecdgb", "fbgade", "df"],
+      "outputs": ["afbdecg", "bgfaed", "fcged", "bgedaf"]
+    },
+    {
+      "patterns": ["cabd", "egdfa", "fbgac", "bcgafd", "ebdafgc", "bd", "eagbfc", "dgb", "fdabg", "cgbdef"],
+      "outputs": ["bd", "bd", "dbg", "cbad"]
+    },
+    {
+      "patterns": ["fgecba", "bd", "dgcbea", "gfeda", "gdb", "geacb", "ecbd", "bfadcg", "efcabdg", "bgade"],
+      "outputs": ["dgbae", "befgacd", "ecbag", "afcebg"]
+    },
+    {
+      "patterns": ["ga", "abefc", "afg", "fecadbg", "egfcbd", "dgfbac", "edgfac", "adbg", "fcgdb", "gbcfa"],
+      "outputs": ["dbag", "fag", "fgdbcea", "dcbfeg"]
+    },
+    {
+      "patterns": ["geacf", "cadfe", "bfaced", "fg", "fcdgae", "fged", "ebagc", "cfg", "edbfgac", "bfdacg"],
+      "outputs": ["afcbged", "efadc", "fg", "fcg"]
+    },
+    {
+      "patterns": ["cbd", "cdefbag", "cfadg", "bd", "bfdac", "abed", "fdabce", "dbegcf", "egabcf", "ecbfa"],
+      "outputs": ["gcebdf", "faegcb", "ecdgbf", "fbeadcg"]
+    },
+    {
+      "patterns": ["fagcde", "cgdfa", "daef", "acgde", "ecgadb", "dbcgf", "fca", "eacgbf", "gcafbde", "fa"],
+      "outputs": ["cdage", "cebfga", "adceg", "deafcgb"]
+    },
+    {
+      "patterns": ["feadgcb", "efcag", "dbfge", "edba", "dfcabg", "ebgfa", "ba", "gefbad", "ebgdcf", "bfa"],
+      "outputs": ["abdefg", "daeb", "bfa", "fdgaecb"]
+    },
+    {
+      "patterns": ["dgfcea", "becdfg", "bdefg", "abgdfec", "beg", "cgedf", "eb", "decb", "bgefac", "fgdab"],
+      "outputs": ["beg", "fedgc", "egfacd", "fcedg"]
+    },
+    {
+      "patterns": ["fcagbd", "adbfeg", "gbeda", "bgfde", "ebfcdg", "dfae", "gaceb", "gda", "ad", "fdbcaeg"],
+      "outputs": ["agd", "gdeba", "fdgeab", "ebcga"]
+    },
+    {
+      "patterns": ["dbcefa", "bfaegd", "fdcb", "fdeca", "agceb", "fcabe", "cfaged", "beagdfc", "fab", "fb"],
+      "outputs": ["edabgf", "gcabe", "adefbc", "fba"]
+    },
+    {
+      "patterns": ["eac", "cfgeab", "agdfc", "cdgbe", "gdbefc", "dabe", "gefdbca", "abcged", "ea", "agecd"],
+      "outputs": ["baegdcf", "bfcegd", "gdbfce", "gfcebd"]
+    },
+    {
+      "patterns": ["cdbeaf", "cd", "dcf", "adcgfeb", "defab", "gbfca", "dgbafe", "cead", "fdcab", "bcefdg"],
+      "outputs": ["dfcabe", "fcd", "dc", "cdfgeb"]
+    },
+    {
+      "patterns": ["gdcfbe", "bag", "dcebg", "dgabce", "cfgdba", "geacb", "bdea", "ba", "febcagd", "faegc"],
+      "outputs": ["gcfea", "dgbfec", "fecag", "cefbgd"]
+    },
+    {
+      "patterns": ["ebfdgc", "baecdfg", "gabfe", "acbg", "bce", "dgabef", "cdeaf", "gfabce", "ecafb", "cb"],
+      "outputs": ["eabcf", "gdfebc", "egfabc", "gafbed"]
+    },
+    {
+      "patterns": ["dbgacfe", "adgcf", "cedafb", "ecbad", "bdfe", "bf", "egcdab", "abfgec", "fab", "cbfad"],
+      "outputs": ["bdfe", "fba", "bcfead", "abedc"]
+    },
+    {
+      "patterns": ["dca", "afdcb", "befagc", "gacedf", "dbecf", "cgfabd", "da", "dbag", "ceabfdg", "afbgc"],
+      "outputs": ["da", "adgb", "gfedcba", "dabfcg"]
+    },
+    {
+      "patterns": ["fgcda", "bcgf", "cgfeda", "bfdcga", "gbd", "badfg", "cebafdg", "gcadeb", "bg", "dfbea"],
+      "outputs": ["fcbg", "geacfd", "abfgcd", "bafgcde"]
+    },
+    {
+      "patterns": ["cf", "gacbfe", "feadcb", "cdgaeb", "fbcd", "fcdae", "efdag", "ecf", "gcabedf", "edacb"],
+      "outputs": ["ecabgd", "gbcfaed", "gebcad", "efdac"]
+    },
+    {
+      "patterns": ["ae", "abcefdg", "faedbg", "agedf", "dgbfce", "gabcfe", "adfcg", "dfbge", "efa", "bdae"],
+      "outputs": ["dcfebg", "fae", "agfdbe", "egfdba"]
+    },
+    {
+      "patterns": ["fegdcab", "dgcaf", "bfd", "fgdab", "edcgaf", "eadgb", "fbcg", "deacbf", "fb", "gbdcfa"],
+      "outputs": ["acefdb", "gdcaf", "fcgda", "gabde"]
+    },
+    {
+      "patterns": ["ca", "cefa", "bgcfed", "facdbe", "dgbfeca", "adc", "dbacfg", "cabde", "edabg", "fcbde"],
+      "outputs": ["dcbefa", "bedfc", "dfcgab", "dbfacg"]
+    },
+    {
+      "patterns": ["ce", "bgcedf", "cgdef", "gdabfe", "cabefd", "dec", "aegfdcb", "dgcfa", "gcbe", "fgbde"],
+      "outputs": ["cegb", "dce", "aedbfc", "ce"]
+    },
+    {
+      "patterns": ["fcgaebd", "ef", "febdac", "feb", "cafbd", "edcfb", "fabecg", "acbdgf", "dfae", "ebgcd"],
+      "outputs": ["feb", "bfe", "fegacb", "bafdec"]
+    },
+    {
+      "patterns": ["fgdec", "adcb", "dfbega", "afcgeb", "egcbd", "db", "bcaeg", "beagdc", "dbgfcae", "deb"],
+      "outputs": ["bd", "egcdab", "fecdg", "bed"]
+    },
+    {
+      "patterns": ["ad", "dcaeg", "edcbag", "fgbdeac", "acd", "gcdfeb", "afegc", "ebda", "cadbfg", "dgbce"],
+      "outputs": ["bfgadc", "dca", "ad", "cda"]
+    },
+    {
+      "patterns": ["bdegaf", "egfdb", "afb", "acbegdf", "fgdba", "af", "feda", "bcfgea", "fbdecg", "abgdc"],
+      "outputs": ["fdegb", "fabecg", "degabf", "adgbef"]
+    },
+    {
+      "patterns": ["gdfbe", "gcf", "gbcda", "cadfbg", "cfdbg", "gceafb", "dfca", "badegc", "cf", "cedgbfa"],
+      "outputs": ["fc", "fcg", "egcabfd", "bdcag"]
+    },
+    {
+      "patterns": ["fcbag", "ebdcgfa", "ce", "fgaced", "fbgeca", "gfbec", "cgdfba", "fbgde", "efc", "aecb"],
+      "outputs": ["beac", "ce", "cgbfe", "bfegd"]
+    },
+    {
+      "patterns": ["dcgaef", "gedfb", "fegdabc", "eabfdg", "dgc", "cefgdb", "bafdc", "cg", "gecb", "gcdbf"],
+      "outputs": ["debgcf", "gbcfd", "gbce", "baefgcd"]
+    },
+    {
+      "patterns": ["bfacdeg", "cedgf", "gfdbec", "eca", "edgcfa", "dbeaf", "ca", "fcdea", "dcebga", "cgfa"],
+      "outputs": ["cefgd", "gcedfa", "bdfegc", "aefdc"]
+    },
+    {
+      "patterns": ["cdfea", "ebgdf", "ab", "adebfgc", "bdcegf", "gbda", "fab", "dagfeb", "ecgabf", "ebfad"],
+      "outputs": ["defba", "cfdea", "ba", "ab"]
+    },
+    {
+      "patterns": ["gbefcd", "cbedf", "fcaed", "dgfb", "dacgbe", "ebfgca", "fb", "bfecadg", "cfb", "gcbde"],
+      "outputs": ["eabgdc", "egcbdf", "dcgbef", "fb"]
+    },
+    {
+      "patterns": ["afgedb", "cabdefg", "afcdb", "efdgca", "ef", "abgde", "edf", "ebfad", "agdbec", "fegb"],
+      "outputs": ["edagcfb", "cdfba", "efdagc", "dcebga"]
+    },
+    {
+      "patterns": ["dcfg", "afbgedc", "efgdb", "agbfe", "fde", "dgbce", "dabegc", "gdbfec", "df", "fadcbe"],
+      "outputs": ["dbfeg", "gdfc", "efd", "faegb"]
+    },
+    {
+      "patterns": ["ebgdf", "acfge", "bae", "gbafe", "efdabc", "ba", "feadbg", "bgda", "gfebdc", "gedacfb"],
+      "outputs": ["fbdcge", "dbag", "ab", "bafedc"]
+    },
+    {
+      "patterns": ["abedcg", "dcagfb", "cf", "dagbc", "afc", "fceabd", "fbcag", "dfcaebg", "dcgf", "abefg"],
+      "outputs": ["afcdbg", "dcfabe", "fcabg", "adgcefb"]
+    },
+    {
+      "patterns": ["fdbc", "egabc", "bfegc", "fc", "gbfced", "aefbgd", "gfebd", "gfacde", "bgdafec", "fec"],
+      "outputs": ["fbcd", "fedbg", "daefcg", "cef"]
+    },
+    {
+      "patterns": ["bgacde", "fegad", "febc", "gfacedb", "gebca", "gaebf", "bfa", "efbgca", "gfadcb", "fb"],
+      "outputs": ["bf", "dcgfeba", "fdcgeab", "fb"]
+    },
+    {
+      "patterns": ["cgdfe", "fagec", "fbace", "afecdb", "acg", "fgcbead", "ga", "abfcge", "bcgdfa", "ebga"],
+      "outputs": ["gabcef", "cfgde", "dfgcba", "gcbdfa"]
+    },
+    {
+      "patterns": ["bgae", "ae", "acegfdb", "dbfeg", "dbcgfe", "ebgafd", "dfcba", "cgefda", "adebf", "eda"],
+      "outputs": ["aebfdgc", "bedaf", "feabd", "fbadc"]
+    },
+    {
+      "patterns": ["dfagcb", "cbdgea", "efabdcg", "ecdab", "gceaf", "daecbf", "df", "cdefa", "fad", "befd"],
+      "outputs": ["afd", "gefca", "adgfcbe", "fd"]
+    },
+    {
+      "patterns": ["dcfeg", "acgf", "aec", "degfbc", "ca", "efbcgda", "fcdea", "gfdeac", "faedb", "cegdab"],
+      "outputs": ["egcdaf", "gebdcf", "bdaegc", "aefdc"]
+    },
+    {
+      "patterns": ["cgebaf", "cbdagef", "cadgb", "efda", "degbaf", "fgbea", "dbe", "bgfdce", "edbag", "de"],
+      "outputs": ["de", "feda", "dagbe", "agfcdbe"]
+    },
+    {
+      "patterns": ["eagbcfd", "eag", "efcad", "acefgb", "ag", "gadce", "fadg", "bdgec", "baefcd", "aefgcd"],
+      "outputs": ["bgecd", "edcfab", "baecfg", "ga"]
+    },
+    {
+      "patterns": ["adbcfge", "eadfb", "faecd", "ab", "dba", "aebgdc", "ebdgf", "ecbfda", "fcba", "gdfaec"],
+      "outputs": ["efcad", "febdg", "bfdgeca", "dba"]
+    },
+    {
+      "patterns": ["adgfc", "dfegc", "cdfeag", "edf", "dbecagf", "fdabge", "fbgce", "ed", "dcea", "cagdfb"],
+      "outputs": ["agdfbe", "def", "efd", "deac"]
+    },
+    {
+      "patterns": ["cgb", "bfgde", "bdcfa", "fgcbd", "fgeadbc", "fcabed", "befcag", "cg", "dacg", "bgafcd"],
+      "outputs": ["cg", "acfedgb", "bcagfe", "bdfagc"]
+    },
+    {
+      "patterns": ["fcbdge", "egdac", "acgfe", "efgcad", "fc", "cdaf", "gacefbd", "fcg", "faebg", "dcebag"],
+      "outputs": ["ecdag", "efcgda", "fdac", "dgcbea"]
+    },
+    {
+      "patterns": ["dgabef", "fdabg", "bcdagef", "dcfbg", "fgac", "adfcbg", "fc", "gdbec", "cbf", "fedcba"],
+      "outputs": ["bdcagf", "dfagb", "fabgd", "cf"]
+    },
+    {
+      "patterns": ["defc", "cgafed", "ecafbg", "fbdag", "aef", "cdgbae", "gecad", "facdgbe", "ef", "dgaef"],
+      "outputs": ["fe", "fbecga", "gfdba", "adgebc"]
+    },
+    {
+      "patterns": ["gbdfac", "gcfbd", "dgceb", "bcgdfe", "fedabcg", "gdfe", "fbceag", "eg", "baced", "gec"],
+      "outputs": ["gacfbe", "cdgebf", "cge", "cge"]
+    },
+    {
+      "patterns": ["acgdbe", "cfa", "gfba", "cfdab", "cbgadf", "cefdb", "bcfadeg", "fa", "fedgac", "agcbd"],
+      "outputs": ["abfg", "agcbd", "gcfeabd", "dfcbe"]
+    },
+    {
+      "patterns": ["dagebf", "defcb", "dgecaf", "edfbac", "aecbdfg", "deacf", "be", "aceb", "bfdgc", "fbe"],
+      "outputs": ["ebac", "dcfagbe", "feb", "bcae"]
+    },
+    {
+      "patterns": ["gbcfad", "fadgbce", "ag", "fdcegb", "gbda", "ceagfd", "agc", "cfdbg", "gfcba", "eabcf"],
+      "outputs": ["dagbcf", "gdacfb", "dafcgeb", "eabfc"]
+    },
+    {
+      "patterns": ["dbgcea", "ag", "acg", "dbag", "aegcd", "bgdefca", "bdgce", "ebgfac", "cgbedf", "acefd"],
+      "outputs": ["agecfb", "abdegc", "dgcefb", "agbd"]
+    },
+    {
+      "patterns": ["dgebfca", "cgdfa", "bgafe", "eda", "cgedfa", "dfage", "fgdbac", "ed", "ecbfda", "egdc"],
+      "outputs": ["befgdac", "daefg", "acfdg", "acdebf"]
+    },
+    {
+      "patterns": ["fgadce", "dcb", "abgdefc", "cedgf", "fecdb", "cb", "dgcfbe", "bgdeca", "gcfb", "defab"],
+      "outputs": ["fcegbd", "cb", "gdfce", "gfebcd"]
+    },
+    {
+      "patterns": ["cfbdgea", "ec", "dacgf", "fdeab", "adfec", "dbce", "dbegaf", "cfe", "deafbc", "ebfgca"],
+      "outputs": ["ec", "decb", "ebagfd", "gcfaedb"]
+    },
+    {
+      "patterns": ["gd", "bcegad", "afdec", "dgbf", "efcdagb", "cdg", "fgdcba", "fgadc", "abfgc", "cgafbe"],
+      "outputs": ["gacfb", "bdcgea", "fabcg", "gd"]
+    },
+    {
+      "patterns": ["dbega", "afebdg", "ca", "ecabdg", "deca", "cfgbae", "bca", "gebdfac", "gfcbd", "adgcb"],
+      "outputs": ["cab", "caed", "abc", "cead"]
+    },
+    {
+      "patterns": ["cgdbfe", "ab", "fgade", "gefcab", "afcdebg", "agdbe", "dcbeg", "bdca", "abe", "cgabed"],
+      "outputs": ["ba", "debgc", "gcefba", "cegdab"]
+    },
+    {
+      "patterns": ["cdfegb", "dbafe", "abdgce", "cbfgea", "bfg", "fg", "cgbed", "dfgc", "bfceagd", "dgbfe"],
+      "outputs": ["gf", "fadgcbe", "aebgcf", "cafegb"]
+    },
+    {
+      "patterns": ["ecafb", "efgcab", "gbdecaf", "fbega", "egabd", "gef", "dfbcge", "fg", "dcbfae", "cafg"],
+      "outputs": ["dcgfeb", "bafdceg", "agfbe", "gf"]
+    },
+    {
+      "patterns": ["efdcbg", "fgbca", "dcgbf", "dbfcag", "faebcd", "abegc", "afc", "egcdabf", "fadg", "fa"],
+      "outputs": ["fa", "afc", "adefgbc", "fbcedg"]
+    },
+    {
+      "patterns": ["dfa", "gcdbeaf", "dgbafe", "gacfbe", "dcagb", "adcbfe", "febca", "df", "dbfac", "cefd"],
+      "outputs": ["adgefbc", "daecfbg", "efbca", "bagefdc"]
+    },
+    {
+      "patterns": ["aec", "fecbgd", "aegdc", "fgcad", "bcedaf", "bdcge", "gbea", "defacgb", "ae", "acbgde"],
+      "outputs": ["ae", "deacg", "edgcb", "afdecb"]
+    },
+    {
+      "patterns": ["cdab", "bedgf", "dcbegaf", "gdfac", "bc", "efabgc", "fbc", "cdbgf", "afgcbd", "efdagc"],
+      "outputs": ["cfb", "fgebca", "cgfdab", "faedbcg"]
+    },
+    {
+      "patterns": ["ab", "eacbgf", "bdfa", "fcaedg", "fdebagc", "degba", "bcdeg", "afdgeb", "dgeaf", "gab"],
+      "outputs": ["gfdbea", "afdb", "afdb", "gcebd"]
+    },
+    {
+      "patterns": ["acbed", "bfeacd", "aedgc", "aeg", "ag", "gdbfae", "egbadc", "bacg", "fcdeg", "gcdbfea"],
+      "outputs": ["gdaec", "aefbcd", "gae", "bdaegcf"]
+    },
+    {
+      "patterns": ["fgadbc", "geafb", "dafbgec", "ecdb", "ce", "bcega", "deacgf", "egc", "geadbc", "cgdab"],
+      "outputs": ["ecgba", "cdbe", "gacedf", "aecgb"]
+    },
+    {
+      "patterns": ["gbea", "eb", "cfdbaeg", "cebad", "gbdac", "fcdae", "dgebcf", "fcabgd", "adgbce", "ceb"],
+      "outputs": ["dagecb", "ebc", "dagbc", "ebc"]
+    },
+    {
+      "patterns": ["fbeda", "ga", "aeg", "aebgd", "agfd", "bdgcfae", "fedgab", "dfeacb", "fbaceg", "begcd"],
+      "outputs": ["ga", "ag", "afcbeg", "bfecad"]
+    },
+    {
+      "patterns": ["efabcg", "bdc", "fedgc", "adebgcf", "gcabed", "cfdbg", "dfba", "db", "cafgb", "bfcgda"],
+      "outputs": ["dcb", "bdc", "agfbc", "afbegcd"]
+    },
+    {
+      "patterns": ["fbade", "bcagfe", "cgfea", "cdag", "dfc", "cfade", "begcfd", "cd", "gecbdaf", "dfceag"],
+      "outputs": ["cgda", "gcda", "fcd", "dc"]
+    },
+    {
+      "patterns": ["dbcfa", "bg", "gafcde", "bdceafg", "gaecbf", "cbg", "bgde", "bcgad", "aegdc", "bceagd"],
+      "outputs": ["gcdab", "eacgdf", "bg", "cgb"]
+    },
+    {
+      "patterns": ["ecfagd", "fbadcg", "fgbae", "bdgae", "gbf", "befc", "facgbe", "gecbfad", "fb", "eagcf"],
+      "outputs": ["gabed", "fb", "egabfcd", "facbegd"]
+    },
+    {
+      "patterns": ["abef", "dcabf", "ecfdba", "afbcgde", "bgdfce", "af", "acf", "cagdb", "gaefdc", "bfcde"],
+      "outputs": ["cfadb", "abef", "bcfde", "cgfdbe"]
+    },
+    {
+      "patterns": ["acedbf", "abcfdeg", "bdceag", "bgade", "acdfgb", "aeb", "bgdfe", "eacg", "ea", "gdabc"],
+      "outputs": ["begda", "dfbge", "ae", "badcg"]
+    },
+    {
+      "patterns": ["fcda", "abgef", "da", "dea", "dacgeb", "fbdae", "cedfab", "bagfced", "ebcgfd", "cdfeb"],
+      "outputs": ["bcedf", "edcbfg", "dbaceg", "bdcfe"]
+    },
+    {
+      "patterns": ["dgcfba", "cadeb", "agcdb", "aebfgc", "gdaf", "bcfdg", "gac", "ga", "fgebcad", "fdcebg"],
+      "outputs": ["dgacbf", "ebdca", "egfdcb", "bcfdg"]
+    },
+    {
+      "patterns": ["afbedg", "egbd", "bfcdag", "edgcaf", "gbdcfae", "afegb", "fgdae", "gbf", "fcbea", "gb"],
+      "outputs": ["dgbe", "edbg", "bg", "efdag"]
+    },
+    {
+      "patterns": ["acb", "abcfde", "fcgead", "efacd", "eabfc", "dbfa", "ab", "egfcb", "bedgac", "fdcaebg"],
+      "outputs": ["defca", "acb", "caefd", "acbdge"]
+    },
+    {
+      "patterns": ["afcde", "dbe", "fbcaed", "aecbfgd", "bfec", "be", "eadbc", "afgdbe", "dacbg", "gcfead"],
+      "outputs": ["be", "ecfb", "fgdabe", "aedgfb"]
+    },
+    {
+      "patterns": ["fdeacg", "cbgfa", "gefb", "bfc", "bf", "gbafce", "bdefac", "agefc", "aegcdbf", "agcdb"],
+      "outputs": ["bf", "gceaf", "efbg", "bfcaeg"]
+    },
+    {
+      "patterns": ["fdce", "gacfb", "agbdec", "cgafd", "df", "caegd", "gdcefa", "bcgadef", "agfbde", "adf"],
+      "outputs": ["fagbc", "fcgdea", "fd", "bfgca"]
+    },
+    {
+      "patterns": ["gdfacb", "aebcg", "ga", "dgae", "egfcbda", "cedbg", "dbegca", "acg", "gbedfc", "ecbfa"],
+      "outputs": ["ga", "eagd", "eagd", "edgfbc"]
+    },
+    {
+      "patterns": ["cgbdf", "eb", "caged", "aegfcd", "egb", "badecg", "gdbce", "ecba", "egfdba", "dfbaecg"],
+      "outputs": ["cagfdbe", "geb", "dgcefa", "dafegc"]
+    },
+    {
+      "patterns": ["cd", "gbecaf", "acfdb", "cdfg", "cda", "gbdface", "gfbac", "dgacfb", "bfade", "dgecab"],
+      "outputs": ["dfcgaeb", "dc", "bgdacef", "bfacd"]
+    },
+    {
+      "patterns": ["geab", "fecdb", "gb", "feabcgd", "ebgcda", "gdcae", "gecdb", "gbc", "afegdc", "gbfdac"],
+      "outputs": ["debcga", "bgdaec", "dceagb", "cbaged"]
+    },
+    {
+      "patterns": ["edgfcba", "agd", "bacd", "afcdg", "degbfc", "acefg", "efdgba", "bgadcf", "da", "gdfbc"],
+      "outputs": ["gcfbd", "dbac", "cgfdb", "gecaf"]
+    },
+    {
+      "patterns": ["bfca", "fcbged", "dfgab", "cgbadf", "cdfabge", "degcab", "adfeg", "cgfbd", "ab", "bad"],
+      "outputs": ["abcf", "afbc", "gafdb", "acfb"]
+    },
+    {
+      "patterns": ["gc", "fdgac", "fgeadb", "afdcb", "gecdfa", "gac", "gecafbd", "cabged", "gfce", "gaefd"],
+      "outputs": ["ecbdgfa", "cag", "bgfeda", "eafgcd"]
+    },
+    {
+      "patterns": ["eagdc", "efdacbg", "cdgbe", "cbfdg", "egadfc", "egb", "aebc", "be", "gefabd", "dbecag"],
+      "outputs": ["bafcgde", "beg", "gbacde", "dcbge"]
+    },
+    {
+      "patterns": ["ac", "afbgcd", "gfdba", "fabecgd", "ebdafg", "bac", "cfag", "adgcbe", "abcfd", "cfdeb"],
+      "outputs": ["adbegf", "egacdb", "bac", "acb"]
+    },
+    {
+      "patterns": ["cafbed", "gf", "gfd", "cgdba", "eadfbcg", "gfdcb", "gbef", "cfdbe", "fdgeac", "gedbcf"],
+      "outputs": ["facbegd", "cbdag", "fg", "fdg"]
+    },
+    {
+      "patterns": ["fbgcd", "fadb", "fcd", "fd", "dfcbga", "decabg", "egbcf", "gacdb", "fcgeda", "aecfdgb"],
+      "outputs": ["bedcafg", "cgdbaf", "fabgdec", "dcbgf"]
+    },
+    {
+      "patterns": ["gb", "bcgeaf", "aebfcd", "cdefbga", "cbaef", "cgafb", "gbf", "dfacg", "gbcfed", "bega"],
+      "outputs": ["bg", "bfacg", "bdfcge", "geba"]
+    },
+    {
+      "patterns": ["cadfe", "afbgced", "aedfcg", "cebfg", "aeb", "fdageb", "bfcade", "bfaec", "ab", "bcad"],
+      "outputs": ["bacef", "bcafe", "bfgeda", "baefgd"]
+    },
+    {
+      "patterns": ["cgbde", "abcg", "cea", "dbegca", "ac", "agced", "befdgc", "bgafdec", "efgda", "badefc"],
+      "outputs": ["cae", "eca", "gdfae", "dcega"]
+    },
+    {
+      "patterns": ["ab", "fgcbed", "agb", "cafge", "cegba", "deabfcg", "dbgec", "aedgbc", "gfadbe", "bdac"],
+      "outputs": ["ab", "bdca", "cgfedb", "dgceb"]
+    },
+    {
+      "patterns": ["bfgadce", "cfadg", "fa", "cagdfb", "bcgdf", "fagbec", "gfa", "fbad", "bgcefd", "degca"],
+      "outputs": ["fa", "ecgad", "gceabf", "dcfgb"]
+    },
+    {
+      "patterns": ["gfd", "dcabegf", "fg", "cefdg", "cbefgd", "gefb", "ebgdc", "egacbd", "gcafdb", "dcfae"],
+      "outputs": ["ebfgdc", "cegdabf", "cbafged", "fdg"]
+    },
+    {
+      "patterns": ["dfecagb", "fbag", "bdcega", "gecdaf", "fg", "cgbad", "gfdacb", "fbcde", "fgd", "dfcgb"],
+      "outputs": ["gfd", "gfd", "dgbeac", "fg"]
+    },
+    {
+      "patterns": ["gfaed", "gad", "feacg", "dfaebcg", "deba", "efgbdc", "gefbad", "ad", "agdfbc", "fbdge"],
+      "outputs": ["dga", "bdae", "fegbcd", "dgfabc"]
+    },
+    {
+      "patterns": ["agdbc", "egdcafb", "caegdb", "afgdec", "cbadfg", "fdgba", "efdba", "bcgf", "gf", "fga"],
+      "outputs": ["dfabg", "cagfdb", "eadbf", "cdfaeg"]
+    },
+    {
+      "patterns": ["bgefac", "fecdabg", "cebdaf", "de", "aedfb", "ade", "bcefa", "gcafed", "bcde", "adgbf"],
+      "outputs": ["ebcgaf", "fbadg", "ead", "dea"]
+    },
+    {
+      "patterns": ["edbgc", "dcba", "egcfbad", "cfdage", "abfegd", "caged", "ebd", "bd", "gdaecb", "cgbef"],
+      "outputs": ["cdebg", "badc", "edgbc", "ebcdg"]
+    },
+    {
+      "patterns": ["cgfabe", "dce", "fcdba", "efbcg", "bdcef", "bagfecd", "eabgcd", "ed", "ecgbdf", "dgfe"],
+      "outputs": ["fdcgbae", "egfd", "edc", "bfegc"]
+    },
+    {
+      "patterns": ["fgecad", "gebda", "ebgcd", "egc", "dbecgf", "ce", "cbef", "cgdfb", "egacdfb", "agdbcf"],
+      "outputs": ["edbfgc", "cdgbe", "edgfcb", "bcefgad"]
+    },
+    {
+      "patterns": ["geafcd", "cdage", "ec", "cdegbaf", "gec", "cgafeb", "abgcd", "gebfda", "gafed", "dcef"],
+      "outputs": ["ce", "gdbfea", "egdabfc", "gec"]
+    },
+    {
+      "patterns": ["be", "abdgfc", "daecgfb", "bae", "dbfag", "gfdeba", "dbafe", "gbfeac", "egdb", "dfcae"],
+      "outputs": ["bdge", "eba", "ecfgba", "gcaedbf"]
+    },
+    {
+      "patterns": ["bcge", "gbeadcf", "acg", "bfcdga", "bfcaeg", "cfaeg", "gc", "feabc", "bfaecd", "gedfa"],
+      "outputs": ["bfeac", "begc", "fgdbca", "bgfedac"]
+    },
+    {
+      "patterns": ["gfbed", "ce", "ced", "fceabd", "dabegf", "bcdgef", "egcf", "becfagd", "gcdbe", "gcadb"],
+      "outputs": ["ce", "ec", "bdfaceg", "cdeafgb"]
+    },
+    {
+      "patterns": ["gfdea", "db", "cfdgbe", "badc", "gbaec", "ebfagc", "bde", "dgbcae", "egbda", "cbgedfa"],
+      "outputs": ["badegc", "cbeagdf", "bd", "egfbcad"]
+    },
+    {
+      "patterns": ["deabcg", "egbca", "agfdbc", "edagfb", "abe", "eb", "afbdceg", "efcag", "becd", "agcdb"],
+      "outputs": ["bced", "eb", "be", "bea"]
+    },
+    {
+      "patterns": ["ebfgda", "bgade", "dbcea", "geaf", "gcbadf", "dgfba", "eg", "gcedabf", "geb", "cgfbed"],
+      "outputs": ["edabg", "ebg", "cedgfb", "bgdcfa"]
+    },
+    {
+      "patterns": ["fc", "adgbecf", "fbcd", "abgfdc", "cgfab", "aedcfg", "dgcab", "gfeab", "cfg", "cbdgae"],
+      "outputs": ["fcg", "badegcf", "bgdac", "fgc"]
+    },
+    {
+      "patterns": ["edg", "egbda", "dafbgec", "begc", "aedcb", "cadgeb", "eg", "eacdfg", "gafbd", "cebadf"],
+      "outputs": ["dfgba", "bdegac", "cbge", "afdbec"]
+    },
+    {
+      "patterns": ["bgfecad", "gdbaf", "afdbeg", "egafcb", "db", "dba", "fdbace", "egafb", "gdeb", "dcgfa"],
+      "outputs": ["fcbade", "fdagbe", "bad", "cdbefa"]
+    },
+    {
+      "patterns": ["bcgedf", "ecba", "bagcef", "beg", "cgafed", "eb", "gfedcab", "gfbad", "efgba", "egafc"],
+      "outputs": ["bace", "fbgdec", "cbgefa", "beg"]
+    },
+    {
+      "patterns": ["dgfecb", "fcd", "edfbag", "bcfade", "fc", "caegd", "bcgedfa", "defab", "caefd", "cbaf"],
+      "outputs": ["dbeafcg", "fc", "fabed", "dcf"]
+    },
+    {
+      "patterns": ["ceafg", "fbad", "cfeba", "edbca", "afebdc", "bf", "cegbad", "bcdfge", "cgdefab", "feb"],
+      "outputs": ["gdbecf", "faebdgc", "dcaeb", "ebf"]
+    },
+    {
+      "patterns": ["cgdfba", "cdabf", "gfedca", "efgcadb", "baegfd", "bcfg", "fc", "caebd", "gdafb", "caf"],
+      "outputs": ["cgfb", "dgcfab", "befgadc", "debgcfa"]
+    },
+    {
+      "patterns": ["ebfgca", "abcfe", "gca", "bagde", "bgcae", "dbgcfa", "efbadc", "gcef", "agefbcd", "cg"],
+      "outputs": ["abegc", "cbfae", "acefbgd", "cag"]
+    },
+    {
+      "patterns": ["dfegac", "gedc", "bcdaef", "abgfd", "egf", "ge", "fagecb", "agefd", "fecdbga", "ecfda"],
+      "outputs": ["gbafd", "dacbef", "gdefac", "gef"]
+    },
+    {
+      "patterns": ["feb", "begcdf", "fcab", "edcafb", "bf", "aefdc", "gbade", "bfead", "daegfc", "feagcbd"],
+      "outputs": ["bcfeagd", "gcdbfe", "fbceda", "fb"]
+    },
+    {
+      "patterns": ["baefgcd", "fedcb", "cfbaed", "dgc", "abdgf", "bdfgc", "bcedgf", "gc", "gcfe", "aegdbc"],
+      "outputs": ["ceafgbd", "fbcdge", "bgdface", "efbdgc"]
+    },
+    {
+      "patterns": ["fd", "gbdae", "bfda", "ebfgdc", "edf", "gfdea", "caegf", "aedgcfb", "fadgbe", "bcagde"],
+      "outputs": ["abedg", "adegb", "efd", "fcaedgb"]
+    },
+    {
+      "patterns": ["befg", "gecdb", "dbcgafe", "adebcf", "dge", "ecfbd", "bcefdg", "aecgdf", "ge", "bgcda"],
+      "outputs": ["bgfe", "gdebc", "dge", "ge"]
+    },
+    {
+      "patterns": ["cfdgb", "be", "aecfg", "gefdbc", "bgfec", "afbdgec", "cdabfe", "egbd", "cgabdf", "cbe"],
+      "outputs": ["fbdgc", "eagcf", "eb", "faegc"]
+    },
+    {
+      "patterns": ["gfdbae", "aedcfg", "gbcfed", "bcde", "dbefgac", "gfacb", "ceg", "bdgfe", "ce", "efcbg"],
+      "outputs": ["efcbg", "ce", "edcb", "ebgadf"]
+    },
+    {
+      "patterns": ["ba", "fecba", "dbcgfae", "gcab", "gfcade", "febdc", "adfegb", "fab", "aegfbc", "gcfae"],
+      "outputs": ["adfgbce", "gebdaf", "cefba", "fba"]
+    },
+    {
+      "patterns": ["eadbf", "acfde", "cfdeab", "bagfcde", "bgfcae", "eab", "gafdce", "cedb", "dbgfa", "eb"],
+      "outputs": ["bea", "fgeacd", "eb", "fegabc"]
+    },
+    {
+      "patterns": ["ecb", "baedc", "ec", "adbfgc", "cedf", "faedcb", "acdfb", "fdgaebc", "agbde", "aegcbf"],
+      "outputs": ["fdce", "cbfdage", "bdacgf", "cedf"]
+    },
+    {
+      "patterns": ["fegc", "cefgdb", "fdbge", "bfg", "badgcf", "eabcdf", "fg", "begad", "dafgceb", "fedcb"],
+      "outputs": ["bgf", "fdbec", "gf", "ebdacf"]
+    },
+    {
+      "patterns": ["gfecdab", "gbeac", "aebd", "be", "eacgd", "ebc", "dfegca", "cbagf", "agbdce", "bcdgfe"],
+      "outputs": ["bec", "ecdga", "ecb", "gabec"]
+    },
+    {
+      "patterns": ["cb", "bcfg", "cgdfa", "adegfc", "bca", "aegdb", "afcebd", "gcdfab", "dbgca", "becfdag"],
+      "outputs": ["bc", "badcgf", "bca", "fcbg"]
+    },
+    {
+      "patterns": ["gabdce", "dc", "fbgdc", "gbfec", "cfda", "fgadcb", "bafgd", "fbdeag", "abdcegf", "cdg"],
+      "outputs": ["fcda", "adbfg", "cfgbead", "dgacfbe"]
+    },
+    {
+      "patterns": ["ecgab", "gbdecaf", "bcfa", "cdegbf", "eabgdf", "fgeabc", "ba", "egfcb", "gedca", "gba"],
+      "outputs": ["fcbeg", "gacbfe", "ecdbafg", "deacg"]
+    },
+    {
+      "patterns": ["agc", "bgfca", "cg", "cgafdbe", "dcfg", "dcfagb", "fbdag", "cabef", "gdbace", "gdefab"],
+      "outputs": ["dcfg", "agbfc", "bcfea", "cag"]
+    },
+    {
+      "patterns": ["cagb", "ga", "dfcga", "fdaebc", "fdebga", "cbdafg", "gfcbdea", "fcgde", "cfbad", "afg"],
+      "outputs": ["cbga", "cedgf", "cdbfa", "afdbcge"]
+    },
+    {
+      "patterns": ["cafgdeb", "aebfd", "gfbeda", "ebcgdf", "agcbf", "egf", "decbaf", "egda", "abgfe", "ge"],
+      "outputs": ["bgacf", "bdfea", "agfbe", "beadcf"]
+    },
+    {
+      "patterns": ["be", "agbefdc", "aedfgc", "gabfc", "adgfeb", "egb", "efdag", "afgbe", "deba", "bgfedc"],
+      "outputs": ["fedgacb", "dcafge", "bdae", "ebad"]
+    },
+    {
+      "patterns": ["cfbae", "dcaegf", "cdbfaeg", "fcebga", "efgca", "cdfab", "ageb", "gcbfde", "ebc", "be"],
+      "outputs": ["acfgde", "be", "be", "bcfagde"]
+    },
+    {
+      "patterns": ["bafdgce", "cea", "gdbcfe", "ae", "agecd", "agcdbe", "ebfcad", "agbe", "bcdeg", "fgadc"],
+      "outputs": ["cebgad", "ecbgd", "cbdeg", "gaeb"]
+    },
+    {
+      "patterns": ["bgce", "agefcbd", "egbcfa", "eg", "fadgb", "bfcae", "dfbcae", "egfab", "gae", "fdcega"],
+      "outputs": ["age", "gafcbe", "eacfbg", "gea"]
+    },
+    {
+      "patterns": ["fgacde", "gfaedb", "ebacf", "gc", "gdfc", "dcbeafg", "fadge", "gec", "bdcgea", "cgfea"],
+      "outputs": ["fdagcbe", "gfdc", "aefgcbd", "gc"]
+    },
+    {
+      "patterns": ["gb", "acfdgb", "bga", "aedgf", "bafdg", "abdfecg", "gacfeb", "bgdc", "bfcad", "fcedba"],
+      "outputs": ["fgaecbd", "dabcf", "bcdg", "bg"]
+    }
+  ]
+}
