@@ -16,7 +16,7 @@ interface Display {
   outputs: string[];
 }
 
-const input = JSON.parse(fs.readFileSync('./src/day8/data/input.json', 'utf8'));
+const input = JSON.parse(fs.readFileSync('./src/day08/data/input.json', 'utf8'));
 const displays: Display[] = input.displays;
 
 let sum = 0;

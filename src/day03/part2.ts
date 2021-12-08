@@ -1,6 +1,6 @@
 import fs from 'fs';
 
-const input = JSON.parse(fs.readFileSync('./src/day3/data/input.json', 'utf8'));
+const input = JSON.parse(fs.readFileSync('./src/day03/data/input.json', 'utf8'));
 const diagnostics: string[] = input.diagnostics;
 const diagnosticReportLength: number = diagnostics[0].length;
 

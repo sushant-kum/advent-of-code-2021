@@ -1,6 +1,6 @@
 import fs from 'fs';
 
-const input = JSON.parse(fs.readFileSync('./src/day7/data/input.json', 'utf8'));
+const input = JSON.parse(fs.readFileSync('./src/day07/data/input.json', 'utf8'));
 const crabsHorizontalPositions: number[] = input.horizontal_positions;
 const maxHorizontalPosition: number = Math.max(...crabsHorizontalPositions);
 const energyExpenditurePerPosition: number[] = new Array(maxHorizontalPosition + 1).fill(0);

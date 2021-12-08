@@ -6,7 +6,7 @@ enum TravelDirection {
   DOWN = 'down',
 }
 
-const input = JSON.parse(fs.readFileSync('./src/day2/data/input.json', 'utf8'));
+const input = JSON.parse(fs.readFileSync('./src/day02/data/input.json', 'utf8'));
 const travels: [TravelDirection, number][] = input.travels;
 
 let aim = 0;

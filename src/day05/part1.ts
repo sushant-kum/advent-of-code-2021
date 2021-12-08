@@ -10,7 +10,7 @@ interface Line {
   to: Point;
 }
 
-const input = JSON.parse(fs.readFileSync('./src/day5/data/input.json', 'utf8'));
+const input = JSON.parse(fs.readFileSync('./src/day05/data/input.json', 'utf8'));
 const ventLines: Line[] = input.vent_lines;
 const endCoordinate: Point = {
   x: Math.max(...ventLines.map((ventLine: Line) => Math.max(ventLine.from.x, ventLine.to.x))),
@@ -19,6 +19,10 @@ const endCoordinate: Point = {
 
 const ventLayout: number[][] = JSON.parse(
   JSON.stringify(new Array(endCoordinate.y + 1).fill(new Array(endCoordinate.x + 1).fill(0)))
+);
+
+const straightVentLines = ventLines.filter(
+  (ventLine: Line) => ventLine.from.x === ventLine.to.x || ventLine.from.y === ventLine.to.y
 );
 
 function getPointsOnLine(line: Line): Point[] {
@@ -35,7 +39,7 @@ function getPointsOnLine(line: Line): Point[] {
   return points;
 }
 
-ventLines.forEach((ventLine: Line) => {
+straightVentLines.forEach((ventLine: Line) => {
   const pointsOnLine: Point[] = getPointsOnLine(ventLine);
 
   pointsOnLine.forEach((pointOnLine: Point) => {
@@ -52,4 +56,4 @@ ventLayout.forEach((ventRow: number[]) => {
     }
   });
 });
-console.log('🚀 ~ file: index.ts ~ line 56 ~ ventLayout.forEach ~ multiVentPoints', multiVentPoints);
+console.log('🚀 ~ file: index.ts ~ line 59 ~ ventLayout.forEach ~ multiVentPoints', multiVentPoints);

@@ -1,11 +1,11 @@
 import fs from 'fs';
 
-const input = JSON.parse(fs.readFileSync('./src/day6/data/input.json', 'utf8'));
+const input = JSON.parse(fs.readFileSync('./src/day06/data/input.json', 'utf8'));
 const daysToReproduce: number[] = input.days_to_reproduce;
 const reproductionCycleDays = 6;
 const firstCycleDelay = 2;
 const newFishDaysToReproduce: number = firstCycleDelay + reproductionCycleDays;
-const numOfDays = 80;
+const numOfDays = 256;
 
 let daysToReproduceToNumFishesMappings: number[] = new Array(newFishDaysToReproduce + 1).fill(0);
 

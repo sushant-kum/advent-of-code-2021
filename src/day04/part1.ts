@@ -1,6 +1,6 @@
 import fs from 'fs';
 
-const input = JSON.parse(fs.readFileSync('./src/day4/data/input.json', 'utf8'));
+const input = JSON.parse(fs.readFileSync('./src/day04/data/input.json', 'utf8'));
 const draws: number[] = input.draws;
 const boards: number[][][] = input.boards;
 const boardSize = 5;
@@ -12,9 +12,8 @@ const markedBoards: boolean[][][] = JSON.parse(
 );
 
 let lastDraw = 0;
-let looserBoardIndex = -1;
-const wonBoardIndices: number[] = [];
-let looserBoard: number[][] | undefined = undefined;
+let winnerBoardIndex = -1;
+let winnerBoard: number[][] | undefined = undefined;
 
 function numberPositionInBoard(board: number[][], num: number): { rowIndex: number; colIndex: number } | undefined {
   for (let rowIndex = 0; rowIndex < boardSize; rowIndex++) {
@@ -85,27 +84,24 @@ for (const draw of draws) {
       markedBoards[boardIndex][drawPositionInBoard.rowIndex][drawPositionInBoard.colIndex] = true;
     }
 
-    if (boardWon(boardIndex) && !wonBoardIndices.includes(boardIndex)) {
-      wonBoardIndices.push(boardIndex);
+    if (boardWon(boardIndex)) {
       lastDraw = draw;
-
-      if (wonBoardIndices.length === boards.length) {
-        looserBoardIndex = boardIndex;
-        looserBoard = JSON.parse(JSON.stringify(boards[boardIndex]));
-        break;
-      }
+      winnerBoardIndex = boardIndex;
+      winnerBoard = JSON.parse(JSON.stringify(boards[boardIndex]));
+      break;
     }
   }
 
-  if (looserBoard !== undefined) {
+  if (winnerBoard !== undefined) {
     break;
   }
 }
-console.log('🚀 ~ file: index.ts ~ line 104 ~ lastDraw', lastDraw);
-console.log('🚀 ~ file: part2.ts ~ line 105 ~ looserBoardIndex', looserBoardIndex);
-console.log('🚀 ~ file: index.ts ~ line 106 ~ looserBoard', looserBoard);
 
-const looserScore: number = boardScore(looserBoard as number[][], looserBoardIndex as number);
+console.log('🚀 ~ file: index.ts ~ line 100 ~ lastDraw', lastDraw);
+console.log('🚀 ~ file: part1.ts ~ line 101 ~ winnerBoardIndex', winnerBoardIndex);
+console.log('🚀 ~ file: index.ts ~ line 102 ~ winnerBoard', winnerBoard);
 
-console.log('🚀 ~ file: index.ts ~ line 110 ~ looserScore', looserScore);
-console.log('🚀 ~ file: index.ts ~ line 111 ~ looserScore * lastDraw', looserScore * lastDraw);
+const winnerScore: number = boardScore(winnerBoard as number[][], winnerBoardIndex as number);
+
+console.log('🚀 ~ file: part1.ts ~ line 106 ~ winnerScore', winnerScore);
+console.log('🚀 ~ file: index.ts ~ line 107 ~ winnerScore * lastDraw', winnerScore * lastDraw);
