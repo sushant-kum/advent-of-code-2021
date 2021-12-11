@@ -34,4 +34,4 @@ for (let row = 0; row < heightMatrixRows; row++) {
   }
 }
 
-console.log('🚀 ~ file: part1.ts ~ line 16 ~ riskLevel', riskLevel);
+console.log('🚀 ~ file: part1.ts ~ line 37 ~ riskLevel', riskLevel);

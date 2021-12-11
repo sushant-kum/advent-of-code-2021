@@ -59,9 +59,9 @@ for (let i = 0; i < largestBasinSizes.length && i < basinCounts; i++) {
   basinSizes.splice(basinSizes.indexOf(largestSize), 1);
 }
 
-console.log('🚀 ~ file: index.ts ~ line 18 ~ basinSizes', basinSizes);
-console.log('🚀 ~ file: index.ts ~ line 71 ~ largestBasinSizes', largestBasinSizes);
+console.log('🚀 ~ file: index.ts ~ line 62 ~ basinSizes', basinSizes);
+console.log('🚀 ~ file: index.ts ~ line 63 ~ largestBasinSizes', largestBasinSizes);
 console.log(
-  '🚀 ~ file: index.ts ~ line 82 ~ largestBasinSizes.reduce((previousValue, currentValue) => previousValue * currentValue)',
+  '🚀 ~ file: index.ts ~ line 64 ~ largestBasinSizes.reduce((previousValue, currentValue) => previousValue * currentValue)',
   largestBasinSizes.reduce((previousValue, currentValue) => previousValue * currentValue)
 );
