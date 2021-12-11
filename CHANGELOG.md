@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [9.0.1](https://github.com/sushant-kum/advent-of-code-2021/compare/9.0.0...9.0.1) (2021-12-11)
+
+### Bug Fixes
+
+- **day9:** fixed console.log line numbers ([ae7e910](https://github.com/sushant-kum/advent-of-code-2021/commit/ae7e91094ffc809163d76ff9f6c1e7ff6fc9b27e))
+
 ## [9.0.0](https://github.com/sushant-kum/advent-of-code-2021/compare/8.0.1...9.0.0) (2021-12-11)
 
 ### Features
