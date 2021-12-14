@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [13.0.0](https://github.com/sushant-kum/advent-of-code-2021/compare/12.0.0...13.0.0) (2021-12-14)
+
+### Features
+
+- **day13:** added solution for day 13 ([f135de1](https://github.com/sushant-kum/advent-of-code-2021/commit/f135de1829a7815a8c40fd32ef0451c8fb30c90b))
+
 ## [12.0.0](https://github.com/sushant-kum/advent-of-code-2021/compare/11.0.0...12.0.0) (2021-12-14)
 
 ### Features
