@@ -1,0 +1,21 @@
+{
+  "initial_polymer": "NNCB",
+  "insertion_rules": [
+    { "pair": "CH", "insert": "B" },
+    { "pair": "HH", "insert": "N" },
+    { "pair": "CB", "insert": "H" },
+    { "pair": "NH", "insert": "C" },
+    { "pair": "HB", "insert": "C" },
+    { "pair": "HC", "insert": "B" },
+    { "pair": "HN", "insert": "C" },
+    { "pair": "NN", "insert": "C" },
+    { "pair": "BH", "insert": "H" },
+    { "pair": "NC", "insert": "B" },
+    { "pair": "NB", "insert": "B" },
+    { "pair": "BN", "insert": "B" },
+    { "pair": "BB", "insert": "N" },
+    { "pair": "BC", "insert": "B" },
+    { "pair": "CC", "insert": "N" },
+    { "pair": "CN", "insert": "C" }
+  ]
+}
