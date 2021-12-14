@@ -70,7 +70,7 @@ To guarantee victory against the giant squid, figure out which board will win fi
 
 Your puzzle answer was `34506`.
 
-## Part Two
+## Part 2
 
 On the other hand, it might be wise to try a different strategy: let the giant squid win.
 

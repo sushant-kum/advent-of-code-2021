@@ -52,7 +52,7 @@ In this example, there are 7 measurements that are larger than the previous meas
 
 Your puzzle answer was `1583`.
 
-## Part Two
+## Part 2
 
 Considering every single measurement isn't as useful as you expected: there's just too much noise in the data.
 

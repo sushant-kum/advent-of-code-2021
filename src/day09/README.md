@@ -28,7 +28,7 @@ Find all of the low points on your heightmap. **What is the sum of the risk leve
 
 Your puzzle answer was `566`.
 
-## Part Two
+## Part 2
 
 Next, you need to find the largest basins so you know what areas are most important to avoid.
 

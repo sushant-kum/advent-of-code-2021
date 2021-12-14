@@ -63,7 +63,7 @@ Find the first illegal character in each corrupted line of the navigation subsys
 
 Your puzzle answer was `374061`.
 
-## Part Two
+## Part 2
 
 Now, discard the corrupted lines. The remaining lines are **incomplete**.
 

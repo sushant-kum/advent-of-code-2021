@@ -310,7 +310,7 @@ Given the starting energy levels of the dumbo octopuses in your cavern, simulate
 
 Your puzzle answer was `1546`.
 
-## Part Two
+## Part 2
 
 It seems like the individual flashes aren't bright enough to navigate. However, you might have a better option: the flashes seem to be **synchronizing**!
 

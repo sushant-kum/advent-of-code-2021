@@ -39,7 +39,7 @@ Use the binary numbers in your diagnostic report to calculate the gamma rate and
 
 Your puzzle answer was `741950`.
 
-## Part Two
+## Part 2
 
 Next, you should verify the **life support rating**, which can be determined by multiplying the **oxygen generator rating** by the **CO2 scrubber rating**.
 

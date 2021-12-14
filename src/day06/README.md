@@ -60,7 +60,7 @@ Find a way to simulate lanternfish. **How many lanternfish would there be after 
 
 Your puzzle answer was `352872`.
 
-## Part Two
+## Part 2
 
 Suppose the lanternfish live forever and have unlimited food and space. Would they take over the entire ocean?
 

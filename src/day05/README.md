@@ -49,7 +49,7 @@ Consider only horizontal and vertical lines. **At how many points do at least tw
 
 Your puzzle answer was `7269`.
 
-## Part Two
+## Part 2
 
 Unfortunately, considering only horizontal and vertical lines doesn't give you the full picture; you need to also consider **diagonal lines**.
 

@@ -39,7 +39,7 @@ Determine the horizontal position that the crabs can align to using the least fu
 
 Your puzzle answer was `337488`.
 
-## Part Two
+## Part 2
 
 The crabs don't seem interested in your proposed solution. Perhaps you misunderstand crab engineering?
 
